@@ -1,0 +1,4 @@
+kubectl apply -f pod.yaml
+kubectl apply -f service.yaml
+kubectl port-forward service/my-service 80:80
+127.0.0.1:80
