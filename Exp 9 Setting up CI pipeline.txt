@@ -9,7 +9,7 @@ A: Create a simple program (e.g., a &quot;Hello, World!&quot; application) in a
         
         select the first option while installing (not recomended one)
         test port
-        
+        go to localhost:8080
         For administartive password open
             C:\Program Files\Jenkins\jenkins.err.log file
             and find key there like below
